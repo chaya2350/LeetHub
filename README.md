@@ -25,8 +25,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaya2350/LeetHub/tree/master/0264-ugly-number-ii) |
+| [1201-ugly-number-iii](https://github.com/chaya2350/LeetHub/tree/master/1201-ugly-number-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaya2350/LeetHub/tree/master/0264-ugly-number-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/chaya2350/LeetHub/tree/master/1201-ugly-number-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/chaya2350/LeetHub/tree/master/1201-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/chaya2350/LeetHub/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
